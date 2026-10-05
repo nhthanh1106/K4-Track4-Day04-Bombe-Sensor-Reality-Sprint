@@ -1,0 +1,6 @@
+mode,proxy_threshold,first_tested_severity_below_threshold
+motion_blur,0.6,0.25
+low_light,0.6,0.25
+sensor_noise,0.6,
+exposure_shift,0.6,0.5
+blur_noise,0.6,0.25
